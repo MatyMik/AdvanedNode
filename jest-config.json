@@ -1,0 +1,4 @@
+{
+    "preset": null,
+    "setupFilesAfterEnv": ["expect-puppeteer"]
+  }
